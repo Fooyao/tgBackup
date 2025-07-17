@@ -1,5 +1,7 @@
 # TgBackup - 智能 Telegram 备份工具
 
+可能还有一些bug
+
 > 🚀 一个现代化的多用户 Telegram 消息备份解决方案，专为防止账号封锁而设计
 
 ![](image.png)
